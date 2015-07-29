@@ -18,11 +18,11 @@ This plugin helps you to change the "Add To Cart" button text to anything from a
 
 = Features =
  * ASCII Special Character Support
- * [Unicode Character] (http://unicode-table.com/en/sets/special-symbols/) Support
- * [HTML5 Special Characters] (http://dev.w3.org/html5/html-author/charref) Support
+ * [Unicode Character](http://unicode-table.com/en/sets/special-symbols/) Support
+ * [HTML5 Special Characters](http://dev.w3.org/html5/html-author/charref) Support
  * You can use available icons from your theme or plugin; like- FontAwesome, Bootstrap or material Icons
- * [Emoji] (http://getemoji.com) Support
- * [WPML] (https://wpml.org/) Compatible
+ * [Emoji](http://getemoji.com) Support
+ * [WPML](https://wpml.org/) Compatible
 
 = Contribute =
 You can fork this plugin, add some more cool features and send me pull request here [Github](https://github.com/badsha-eee/Change-WooCommerce-Add-to-Cart-Text).
@@ -50,7 +50,7 @@ A. You can put the normal html code like `<i class="fa fa-shopping-cart"></i> Bu
 = Q. How can I add HTML5 Special Characters/Emoji? =
 A. There is no magic trick. Just copy and paste!
 
-= Q. How can I translate the strings using WPML?
+= Q. How can I translate the strings using WPML? =
 A. Scan the strings using WPML string translator and translate them as you need them in other languages.
 
 = Q. Found a bug? =
